@@ -1,7 +1,8 @@
 namespace Cadastro_Alunos_POO.classes
 {
-    public class Aluno
+    public class Aluno//classe
     {
+        //atributos da classe
         public string nome;
         public string curso;
         public int idade;
@@ -10,6 +11,7 @@ namespace Cadastro_Alunos_POO.classes
         public float mediaFinal;
         public float valorMensalidade;
 
+        //métodos
         public float VerMediaAluno()
         {
             return this.mediaFinal;

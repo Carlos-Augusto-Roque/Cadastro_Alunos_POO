@@ -7,7 +7,7 @@ namespace Cadastro_Alunos_POO
     {
         static void Main(string[] args)
         {
-            Aluno aluno = new Aluno();
+            Aluno aluno = new Aluno();//instância da classe - criando um objeto "aluno" 
            
                Console.Write("Digite o nome do aluno: ");
                aluno.nome = Console.ReadLine();
