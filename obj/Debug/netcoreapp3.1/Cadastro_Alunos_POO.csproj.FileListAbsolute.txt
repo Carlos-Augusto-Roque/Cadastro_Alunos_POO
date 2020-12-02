@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\bin\Debug\netcoreapp3.1\Cadastro_Alunos_POO.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\bin\Debug\netcoreapp3.1\Cadastro_Alunos_POO.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\bin\Debug\netcoreapp3.1\Cadastro_Alunos_POO.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\bin\Debug\netcoreapp3.1\Cadastro_Alunos_POO.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\bin\Debug\netcoreapp3.1\Cadastro_Alunos_POO.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\bin\Debug\netcoreapp3.1\Cadastro_Alunos_POO.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\obj\Debug\netcoreapp3.1\Cadastro_Alunos_POO.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\obj\Debug\netcoreapp3.1\Cadastro_Alunos_POO.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\obj\Debug\netcoreapp3.1\Cadastro_Alunos_POO.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\obj\Debug\netcoreapp3.1\Cadastro_Alunos_POO.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\obj\Debug\netcoreapp3.1\Cadastro_Alunos_POO.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\obj\Debug\netcoreapp3.1\Cadastro_Alunos_POO.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Cadastro_Alunos_POO\obj\Debug\netcoreapp3.1\Cadastro_Alunos_POO.genruntimeconfig.cache
